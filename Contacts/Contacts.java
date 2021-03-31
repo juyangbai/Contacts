@@ -1,3 +1,10 @@
+package JuyangBai.Java;
+
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Collections;
+import java.util.Comparator;
+
 class Contact
 {
     String name;    //name of the contact
