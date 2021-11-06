@@ -1,2 +1,2 @@
 # Contacts
-Simple Java homework.
+Java homework.
